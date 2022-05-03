@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICUapp.Server", "ICUapp\Server\ICUapp.Server.csproj", "{049A7759-3290-4A0A-830B-C37E19DD8170}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICUapp.Server", "ICUapp\Server\ICUapp.Server.csproj", "{049A7759-3290-4A0A-830B-C37E19DD8170}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICUapp.Client", "ICUapp\Client\ICUapp.Client.csproj", "{B922445C-484A-4B74-8279-E10818A24161}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICUapp.Client", "ICUapp\Client\ICUapp.Client.csproj", "{B922445C-484A-4B74-8279-E10818A24161}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICUapp.Shared", "ICUapp\Shared\ICUapp.Shared.csproj", "{62EA455D-1094-4616-85FC-EE646CFE6534}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICUapp.Shared", "ICUapp\Shared\ICUapp.Shared.csproj", "{62EA455D-1094-4616-85FC-EE646CFE6534}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
